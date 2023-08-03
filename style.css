@@ -1,0 +1,67 @@
+
+body {
+    background-color: #8EAC50!important;
+}
+.hero-section {
+    background-color: #CBFFA9;
+    margin-bottom: 0px;
+}
+h1 {
+    font-family: 'Bree Serif', serif;
+    font-family: 'Courgette', cursive;
+    font-size: 50px;
+}
+p {
+    font-family: 'Bree Serif', serif;
+    font-family: 'Courgette', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.my-5 {
+    margin-top: 0%!important;
+    padding-bottom: 0%!important;
+    margin-bottom: 0%!important;
+    background-color: #8EAC50!important;
+}
+.about-myself {
+    background-color: #8EAC50!important;
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: 8EAC50!important;
+}
+.rounded-circle {
+    border-radius: 50%!important;
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.skills {
+    display: flex;
+    justify-content: center;
+}
+.card-img, .card-img-bottom, .card-img-top {
+    width: 100%;
+    height: 250px!important;
+}
+.card {
+    margin: 50px;
+}
+.my-skills {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.text-body-emphasis {
+    padding-bottom: 50px;
+}
+.bg-body {
+    --bs-bg-opacity: 1;
+    background-color: #CBFFA9!important;
+}
+.card-body {
+    background-color: #CBFFA9!important;
+}
